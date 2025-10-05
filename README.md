@@ -3,7 +3,7 @@
 📍 Elmarg, Cairo, Egypt  
 📞 01002998596 | 01064551051  
 📧 [mahmoudfawzee1511@gmail.com](mailto:mahmoudfawzee1511@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-fawzee-08b196225/) | [Portfolio Website](https://mahmoudfawzee.github.io/portfolio/) | [GitHub](https://github.com/mahmoudFawzee)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-fawzee-08b196225/) | [Portfolio Website](https://mahmoudfawzee.github.io/portfolio/)
 
 ---
 
@@ -46,7 +46,7 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 
 ## 📱 Projects  
 
-### **Ashafaq**  
+### [Ashafaq](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=1)
 Developed a Flutter app for a Saudi car wash brand, allowing users to book on-demand services at home or work.  
 Implemented a complete booking system, location integration, secure payments, notifications, and loyalty features with a **Laravel backend**.
 
