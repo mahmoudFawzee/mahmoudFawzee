@@ -33,7 +33,12 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 ### **Freelancer — Flutter Developer**  
 **October 2022 – Present**  
 - Delivered custom mobile applications for clients across **news**, **e-commerce**, **education**, and **chat** domains.  
-- Focused on responsive UI, smooth UX, and Firebase integration for authentication and real-time updates.  
+- Focused on responsive UI, smooth UX, and Firebase integration for authentication and real-time updates.
+
+### **Trainee — Mega Dev**  
+**December 2022 – March 2023**  
+- Gained hands-on experience with mobile app development, including **Flutter-based projects**.  
+- Collaborated with senior developers to build and maintain apps, focusing on **UI design** and **functionality**.
 
 ---
 
