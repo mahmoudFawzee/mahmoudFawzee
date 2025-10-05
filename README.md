@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Mahmoud Fawzy  
 
 📍 Elmarg, Cairo, Egypt  
-📞 01002998596 | 01064551051  
 📧 [mahmoudfawzee1511@gmail.com](mailto:mahmoudfawzee1511@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-fawzee-08b196225/) | [Portfolio Website](https://mahmoudfawzee.github.io/portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-fawzee-08b196225/) | [Portfolio](https://mahmoudfawzee.github.io/portfolio/) | [GitHub](https://github.com/mahmoudFawzee)
 
 ---
 
@@ -33,7 +32,7 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 ### **Freelancer — Flutter Developer**  
 **October 2022 – Present**  
 - Delivered custom mobile applications for clients across **news**, **e-commerce**, **education**, and **chat** domains.  
-- Focused on responsive UI, smooth UX, and Firebase integration for authentication and real-time updates.
+- Focused on responsive UI, smooth UX, and Firebase integration for authentication and real-time updates.  
 
 ### **Trainee — Mega Dev**  
 **December 2022 – March 2023**  
@@ -53,7 +52,7 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 
 ### [Ashafaq](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=1)
 Developed a Flutter app for a Saudi car wash brand, allowing users to book on-demand services at home or work.  
-Implemented a complete booking system, location integration, secure payments, notifications, and loyalty features with a **Laravel backend**.
+Implemented booking system, location integration, secure payments, notifications, and loyalty features with a **Laravel backend**.
 
 ### [CTE News](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=2)
 Built a content management app for **Jeddah’s Faculty of Telecom & Electronics**.  
@@ -73,6 +72,12 @@ Developed a consultation app for users seeking technical advice and nearby maint
 ## 🌍 Languages  
 - **Arabic** — Native  
 - **English** — Professional Working Proficiency  
+
+---
+
+## 💡 Let's Connect  
+I’m open to collaboration and freelance opportunities.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mahmoud-fawzee-08b196225/) or [Email](mailto:mahmoudfawzee1511@gmail.com).  
 
 ---
 
