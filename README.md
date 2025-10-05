@@ -50,17 +50,17 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 Developed a Flutter app for a Saudi car wash brand, allowing users to book on-demand services at home or work.  
 Implemented a complete booking system, location integration, secure payments, notifications, and loyalty features with a **Laravel backend**.
 
-### **CTE News**  
+### [CTE News](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=2)
 Built a content management app for **Jeddah’s Faculty of Telecom & Electronics**.  
 Supports admin-published news with videos, images, and user comments.
 
-### **Lost and Found**  
+### [Lost and Found](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=4)
 Created a platform for posting and managing found items, featuring admin moderation and monthly Excel-based statistics.
 
-### **AI Assistant**  
+### [AI Assistant](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=8)
 An all-in-one personal assistant app for managing tasks, getting real-time weather updates, and chatting with an AI helper.
 
-### **Technical Solutions**  
+### [Technical Solutions](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=6)
 Developed a consultation app for users seeking technical advice and nearby maintenance centers, including rating and feedback features.
 
 ---
