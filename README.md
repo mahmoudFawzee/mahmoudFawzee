@@ -24,7 +24,7 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 ## 💼 Experience  
 
 ### **Flutter Developer — Ashafaq Car Washing (KSA)**  
-**June 2025 – Present**  
+**June 2025 – Present (Remote, Part-Time)**    
 - Led the full development of the **Ashafaq Car Washing** mobile app from concept to deployment using **Flutter**, **Bloc**, and **REST APIs**.  
 - Built a seamless user interface enabling customers to book car washes at home or Ashafaq branches.  
 - Since **September 2025**, continued as a **part-time developer**, maintaining and enhancing the app with new features and updates to align with the latest technologies.  
