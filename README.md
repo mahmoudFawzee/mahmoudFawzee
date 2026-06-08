@@ -2,7 +2,7 @@
 
 📍 Elmarg, Cairo, Egypt  
 📧 [mahmoudfawzee1511@gmail.com](mailto:mahmoudfawzee1511@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-fawzee-08b196225/) | [Portfolio](https://mahmoudfawzee.github.io/portfolio/) | [GitHub](https://github.com/mahmoudFawzee)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-fawzee-08b196225/) | [Portfolio](https://mahmoudfawzee.github.io/portfolio-web-backend-based/) | [GitHub](https://github.com/mahmoudFawzee)
 
 ---
 
@@ -24,7 +24,7 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 ## 💼 Experience  
 
 ### **Flutter Developer — Ashafaq Car Washing (KSA)**  
-**June 2025 – january 2026 (Remote, Full-Time)**    
+**June 2025 – January 2026 (Remote, Full-Time)**    
 - Led the full development of the **Ashafaq Car Washing** mobile app from concept to deployment using **Flutter**, **Bloc**, and **REST APIs**.  
 - Built a seamless user interface enabling customers to book car washes at home or Ashafaq branches.  
 - Since **September 2025**, continued as a **part-time developer**, maintaining and enhancing the app with new features and updates to align with the latest technologies.  
@@ -50,7 +50,7 @@ Focused on **performance**, **scalability**, and **high-quality user experiences
 
 ## 📱 Projects  
 
-### [Ashafaq](https://mahmoudfawzee.github.io/portfolio/project_details.html?projectId=1)
+### [Ashafaq](https://mahmoudfawzee.github.io/portfolio-web-backend-based/#project/69de415f783cd3b8839121f1)
 Developed a Flutter app for a Saudi car wash brand, allowing users to book on-demand services at home or work.  
 Implemented booking system, location integration, secure payments, notifications, and loyalty features with a **Laravel backend**.
 
